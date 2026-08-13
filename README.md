@@ -11,10 +11,15 @@ Together, the charts tell a broader story: baseball did not simply become more o
 All data used in this project comes from Retrosheet.
 
 [All Players](_allplayers.csv) - Basic information about all players divided by team-season.
+
 [Game Information](_gameinfo.csv) - Game-level information including teams, attendance, umpires, and other game details.
+
 [Team Statistics](_teamstats.csv) - Team-level information including line scores, lineups, batting, pitching, and fielding statistics.
+
 [Batting](_batting.csv) - Batting statistics by player by game.
+
 [Pitching](_pitching.csv) - Pitching statistics by player by game.
+
 [Fielding](_fielding.csv) - Fielding statistics by player by position by game.
 
 ---
